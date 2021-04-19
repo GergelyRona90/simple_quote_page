@@ -1,0 +1,12 @@
+
+h1 {
+ color: gray;
+}
+
+
+
+body {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
