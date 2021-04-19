@@ -1,6 +1,6 @@
 #content {
   margin: 200px 50px;
-  background-color: rgba(0,0,0,.1);
+  background-color: rgba(0,0,0,.2);
   width: 510px;
   height: 350px;
   border-radius: 30px;
@@ -13,7 +13,6 @@
   transition: 1.5s;
   padding: 20px;
   color: black;
-  background-color: rgba(255,255,255,.3);
   box-shadow: 0px 0px 0px;
 }
 #quote {
@@ -29,9 +28,11 @@
   width: 105%;
 }
 
-h2 {
-  text-align: right;
-  margin-right: 350px;
+#author {
+  text-align: left;
+  margin-top: -20px;
+  margin-left: 30px;
+  font-size: 22px;
   color: white;    
 }
 
